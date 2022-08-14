@@ -21,8 +21,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Print Hello Message in Testing
-      run : echo "Hello World from Testing job"
+    - name: Print Hello Message in MyTesting
+      run : echo "Hello World from MyTesting job"
     
     - name: Execure few commands
       run : |
@@ -48,7 +48,7 @@ jobs:
     
     steps:
     - name: Print Hello Message in Deploy
-      run : echo "Hello World from Deploy job"
+      run : echo "Hello World from MyDeploy job"
       
     - name: Print env vars
       run : |

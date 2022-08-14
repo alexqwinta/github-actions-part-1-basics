@@ -48,7 +48,7 @@ jobs:
     
     steps:
     - name: Print Hello Message in Deploy
-      run : echo "Hello World from MyDeploy job"
+      run : echo "Hello World from MyDeploy jobs"
       
     - name: Print env vars
       run : |

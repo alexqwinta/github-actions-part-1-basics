@@ -1,9 +1,9 @@
 # ------------------------------------------------
-# Program by Denis Astahov
+# Program by Alex Rez
 #
 #
 # Version      Date           Info
-# 1.0          13-Dec-2019    Initial Version
+# 1.0          14-Aug-2022    Initial Version
 #
 # ----------------------------------------------
 from flask import Flask, render_template
